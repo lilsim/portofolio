@@ -1,4 +1,3 @@
-# portofolio
 <h2 align="center">
   Portfolio Website - v2.0<br/>
   <a href="portofolio-eta-self.vercel.app" target="_blank">simran.tech</a>
